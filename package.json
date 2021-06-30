@@ -1,0 +1,22 @@
+{
+  "name": "zombietracker",
+  "version": "1.0.0",
+  "description": "Zombie Tracker reads US population by state and monitors for zombie infection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbc12instructor/zombieTracker.git"
+  },
+  "author": "erh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cbc12instructor/zombieTracker/issues"
+  },
+  "homepage": "https://github.com/cbc12instructor/zombieTracker#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
