@@ -12,5 +12,4 @@ app.get('/census', function(req, res) {
 	res.json(states.default);
 });
 
-
 app.listen(80);
