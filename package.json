@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/cbc12instructor/zombieTracker#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "states-us": "^1.0.1"
   }
 }
